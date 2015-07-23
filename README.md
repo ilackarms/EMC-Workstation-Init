@@ -1,2 +1,4 @@
 # EMC-Workstation-Init
-Repo for storing documentation and scripts for setting up EMC workstations for development on CloudFoundry
+This repository contains everything you need to configure a freshly installed Mac OS X machine to work on CloudFoundry
+
+##Option 1 - Restore from a pre-configured image
